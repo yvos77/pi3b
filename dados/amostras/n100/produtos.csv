@@ -1,0 +1,61 @@
+indice,nome,categoria,grau,score,rotulo
+46,Motorola Headset com Microfone Edition 9536,Headset,15,0.7055,1
+47,Lenovo Teclado Mecânico Vostro 1148,Teclado Mecanico,10,0.9135,2
+48,Corsair Notebook Vostro 5072,Notebook,6,0.9114,2
+49,Xiaomi Power Bank Edition 3402,Power Bank,4,0.9292,2
+50,Corsair Placa de Vídeo RTX Inspiron 4386,Placa de Video,4,0.8940,1
+51,Asus Placa de Vídeo RTX Inspiron 9125,Placa de Video,43,0.6450,0
+52,Lenovo Placa de Vídeo RTX Nitro 5 7323,Placa de Video,18,0.8046,1
+53,Lenovo Placa de Vídeo RTX ROG Strix 5960,Placa de Video,21,0.7855,1
+54,Asus Monitor Gamer MacBook Air 5927,Monitor Gamer,28,0.7936,0
+55,MSI Notebook Inspiron 7698,Notebook,13,0.8667,1
+56,Acer Mouse Sem Fio Inspiron 9962,Mouse,44,0.6537,0
+57,Asus Placa de Vídeo RTX Inspiron 7741,Placa de Video,2,0.9067,2
+58,Acer Monitor Gamer MacBook Air 8963,Monitor Gamer,63,0.5702,0
+59,Realme Smartwatch Carbon Edition 3396,Smartwatch,52,0.6505,0
+60,Lenovo Monitor Gamer MacBook Air 1526,Monitor Gamer,57,0.6085,0
+61,HP Monitor Gamer ThinkPad 2952,Monitor Gamer,60,0.5893,0
+62,Apple Mouse Sem Fio Inspiron 9796,Mouse,17,0.8261,1
+63,Bose Fone de Ouvido Bluetooth Ultra Slim 7629,Fone de Ouvido,56,0.6199,0
+64,Apple Placa de Vídeo RTX ThinkPad 3420,Placa de Video,1,0.9131,2
+65,JBL Protetor de Surto Series X 6516,Protetor de Surto,16,0.4979,1
+66,Realme Smartwatch Global 6784,Smartwatch,39,0.7335,0
+67,Nokia Capa de Silicone iPhone 15 2643,Capa de Silicone,47,0.6748,0
+68,Motorola Capa de Silicone iPhone 15 3779,Capa de Silicone,50,0.6557,0
+69,Asus Placa de Vídeo RTX G Series 7213,Placa de Video,14,0.8301,1
+70,Dell Placa de Vídeo RTX Legion 6721,Placa de Video,21,0.7855,1
+71,Logitech Placa de Vídeo RTX MacBook Air 5006,Placa de Video,23,0.7727,1
+72,Samsung Smartwatch Carbon Edition 2318,Smartwatch,47,0.6824,0
+73,Motorola Smartwatch iPhone 15 2171,Smartwatch,57,0.6186,0
+74,Panasonic Protetor de Surto Elite Edition 2124,Protetor de Surto,6,0.5617,1
+75,Apple Placa de Vídeo RTX G Series 2363,Placa de Video,36,0.6897,0
+76,Corsair Teclado Mecânico Vostro 2147,Teclado Mecanico,64,0.5688,0
+77,MSI Placa de Vídeo RTX Legion 8425,Placa de Video,7,0.8748,1
+78,MSI Notebook Legion 451,Notebook,8,0.8986,1
+79,Nokia Capa de Silicone Global 2742,Capa de Silicone,53,0.6365,0
+80,TCL Protetor de Surto Crystal 5571,Protetor de Surto,9,0.5426,1
+81,Dell Placa de Vídeo RTX Inspiron 8491,Placa de Video,14,0.8301,1
+82,MSI Notebook Vostro 1720,Notebook,37,0.7135,0
+83,MSI Notebook Vostro 9964,Notebook,30,0.7582,0
+84,Nokia Power Bank Pixel 8 4308,Power Bank,35,0.7313,0
+85,Motorola Smartwatch Edition 5969,Smartwatch,55,0.6313,0
+86,Huawei Smartwatch Edition 6753,Smartwatch,57,0.6186,0
+87,Lenovo Placa de Vídeo RTX Legion 3458,Placa de Video,36,0.6897,0
+88,Logitech Placa de Vídeo RTX Vostro 4853,Placa de Video,15,0.8238,1
+89,Asus Placa de Vídeo RTX Vostro 524,Placa de Video,21,0.7855,1
+90,Lenovo Placa de Vídeo RTX MacBook Air 6923,Placa de Video,20,0.7918,1
+91,Asus Notebook Nitro 5 6182,Notebook,36,0.7199,0
+92,Razer Placa de Vídeo RTX Inspiron 6467,Placa de Video,30,0.7280,0
+93,Lenovo Placa de Vídeo RTX ROG Strix 7358,Placa de Video,18,0.8046,1
+94,MSI Placa de Vídeo RTX Legion 4839,Placa de Video,38,0.6769,0
+95,Panasonic Home Theater Pro 2024 5812,Home Theater,60,0.5893,0
+96,MSI Mouse Sem Fio G Series 4207,Mouse,27,0.7623,1
+97,TCL Home Theater Pro 2024 6543,Home Theater,69,0.5319,0
+98,Dell Placa de Vídeo RTX MacBook Air 8190,Placa de Video,5,0.8876,1
+99,Nokia Capa de Silicone Galaxy S23 6128,Capa de Silicone,46,0.6812,0
+100,Lenovo Placa de Vídeo RTX MacBook Air 8538,Placa de Video,27,0.7472,1
+101,Oppo Capa de Silicone Galaxy S23 2312,Capa de Silicone,57,0.6110,0
+102,Oppo Capa de Silicone Global 8208,Capa de Silicone,42,0.7068,0
+103,Sony Protetor de Surto Plus 4846,Protetor de Surto,14,0.5106,1
+104,Bose Fone de Ouvido Bluetooth Series X 7422,Fone de Ouvido,15,0.8816,1
+105,Lenovo Teclado Mecânico Nitro 5 2467,Teclado Mecanico,82,0.4540,0
