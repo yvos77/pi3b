@@ -1,0 +1,601 @@
+indice,nome,categoria,grau,score,rotulo
+1500,MSI Monitor Gamer Inspiron 1679,Monitor Gamer,34,0.7553,0
+1501,Bose Protetor de Surto Plus 9205,Protetor de Surto,1,0.5936,1
+1502,Panasonic Smart TV 4K Series X 3018,Smart TV,7,0.8220,1
+1503,LG Protetor de Surto Crystal 2142,Protetor de Surto,6,0.5617,1
+1504,Samsung Headset com Microfone Redmi Note 9656,Headset,18,0.6864,1
+1505,Acer Webcam Full HD MacBook Air 1325,Webcam,1,0.8930,1
+1506,TCL Protetor de Surto OLED 3577,Protetor de Surto,2,0.5872,1
+1507,TCL Smart TV 4K Crystal 6673,Smart TV,10,0.8028,1
+1508,JBL Protetor de Surto Plus 8748,Protetor de Surto,1,0.5936,1
+1509,Panasonic Protetor de Surto Series X 2241,Protetor de Surto,4,0.5745,1
+1510,Sony Protetor de Surto Series X 8546,Protetor de Surto,1,0.5936,1
+1511,Logitech Mouse Sem Fio Inspiron 6750,Mouse,8,0.8835,1
+1512,Lenovo Placa de Vídeo RTX MacBook Air 2482,Placa de Video,5,0.8876,1
+1513,Nokia Smartphone Global 2283,Smartphone,42,0.7118,0
+1514,Bose Soundbar Crystal 6716,Soundbar,34,0.7528,0
+1515,JBL Home Theater Plus 2074,Home Theater,46,0.6787,0
+1516,Motorola Headset com Microfone Edition 9536,Headset,15,0.7055,1
+1517,Panasonic Soundbar Ultra Slim 957,Soundbar,23,0.8230,1
+1518,Xiaomi Headset com Microfone Redmi Note 1635,Headset,2,0.7885,1
+1519,Lenovo Teclado Mecânico Vostro 1148,Teclado Mecanico,10,0.9135,2
+1520,Apple Headset com Microfone Edition 789,Headset,3,0.7821,1
+1521,Samsung Power Bank Global 114,Power Bank,20,0.8271,1
+1522,Sony Fone de Ouvido Bluetooth Ultra Slim 648,Fone de Ouvido,48,0.6710,0
+1523,Philips Smart TV 4K Series X 6592,Smart TV,16,0.7645,1
+1524,Xiaomi Headset com Microfone Redmi Note 5818,Headset,1,0.7949,1
+1525,Acer SSD 1TB NVMe Inspiron 188,SSD,34,0.7251,0
+1526,Panasonic Fone de Ouvido Bluetooth Elite Edition 9,Fone de Ouvido,28,0.7986,0
+1527,Panasonic Protetor de Surto Pro 2024 3048,Protetor de Surto,6,0.5617,1
+1528,Nokia Headset com Microfone Galaxy S23 1905,Headset,3,0.7821,1
+1529,Oppo Headset com Microfone Redmi Note 9980,Headset,3,0.7821,1
+1530,Huawei Headset com Microfone Pixel 8 9801,Headset,1,0.7949,1
+1531,Realme Headset com Microfone Redmi Note 9500,Headset,19,0.6800,1
+1532,LG Protetor de Surto Ultra Slim 7941,Protetor de Surto,1,0.5936,1
+1533,MSI Notebook ThinkPad 8847,Notebook,9,0.8922,1
+1534,Corsair Notebook Vostro 5072,Notebook,6,0.9114,2
+1535,Xiaomi Power Bank Edition 3402,Power Bank,4,0.9292,2
+1536,Samsung Smart TV 4K Pro 2024 4423,Smart TV,7,0.8220,1
+1537,Razer Webcam Full HD Legion 4939,Webcam,15,0.8036,1
+1538,Realme Película de Vidro iPhone 15 7031,Pelicula de Vidro,44,0.6864,0
+1539,Corsair Placa de Vídeo RTX Inspiron 4386,Placa de Video,4,0.8940,1
+1540,Panasonic Home Theater QLED 7941,Home Theater,33,0.7617,0
+1541,Corsair SSD 1TB NVMe G Series 2162,SSD,26,0.7762,1
+1542,Sony Protetor de Surto Ultra Slim 4810,Protetor de Surto,35,0.3766,0
+1543,Bose Protetor de Surto OLED 5261,Protetor de Surto,7,0.5553,1
+1544,Samsung Protetor de Surto Plus 9987,Protetor de Surto,9,0.5426,1
+1545,Dell Mouse Sem Fio G Series 9028,Mouse,14,0.8452,1
+1546,Lenovo Mouse Sem Fio ROG Strix 6401,Mouse,36,0.7048,0
+1547,Dell Webcam Full HD ThinkPad 1081,Webcam,29,0.7143,0
+1548,TCL Home Theater Elite Edition 7513,Home Theater,45,0.6851,0
+1549,Samsung Protetor de Surto Elite Edition 6023,Protetor de Surto,1,0.5936,1
+1550,Sony Smart TV 4K Pro 2024 4705,Smart TV,16,0.7645,1
+1551,LG Protetor de Surto Ultra Slim 83,Protetor de Surto,9,0.5426,1
+1552,Samsung Protetor de Surto QLED 7603,Protetor de Surto,1,0.5936,1
+1553,LG Protetor de Surto Plus 728,Protetor de Surto,3,0.5809,1
+1554,Apple Headset com Microfone iPhone 15 7393,Headset,17,0.6927,1
+1555,Realme Modem 5G Global 5585,Modem,45,0.6926,0
+1556,TCL Smart TV 4K Series X 9481,Smart TV,21,0.7326,1
+1557,Asus Placa de Vídeo RTX Inspiron 9125,Placa de Video,43,0.6450,0
+1558,LG Protetor de Surto Elite Edition 164,Protetor de Surto,11,0.5298,1
+1559,HP Roteador Wi-Fi 6 G Series 6544,Roteador Wi-Fi,1,0.9534,2
+1560,TCL Protetor de Surto OLED 7793,Protetor de Surto,27,0.4277,1
+1561,Nokia Smartphone Carbon Edition 1874,Smartphone,45,0.6926,0
+1562,Motorola Headset com Microfone Edition 4377,Headset,11,0.7310,1
+1563,Apple SSD 1TB NVMe MacBook Air 1058,SSD,5,0.9102,2
+1564,Corsair Mouse Sem Fio Nitro 5 8011,Mouse,20,0.8069,1
+1565,Lenovo Placa de Vídeo RTX Nitro 5 7323,Placa de Video,18,0.8046,1
+1566,Bose Caixa de Som Echo Crystal 4960,Caixa de Som,38,0.7222,0
+1567,Samsung Película de Vidro iPhone 15 593,Pelicula de Vidro,30,0.7758,0
+1568,LG Protetor de Surto Elite Edition 1619,Protetor de Surto,5,0.5681,1
+1569,LG Smart TV 4K Pro 2024 1042,Smart TV,8,0.8156,1
+1570,LG Smart TV 4K Pro 2024 9079,Smart TV,29,0.6816,0
+1571,TCL Protetor de Surto Ultra Slim 750,Protetor de Surto,9,0.5426,1
+1572,Samsung Smart TV 4K Pro 2024 702,Smart TV,20,0.7390,1
+1573,Sony Protetor de Surto Plus 2080,Protetor de Surto,10,0.5362,1
+1574,Lenovo Placa de Vídeo RTX ROG Strix 5960,Placa de Video,21,0.7855,1
+1575,LG Cabo HDMI 2.1 QLED 7853,Cabo HDMI,50,0.6632,0
+1576,Realme Headset com Microfone Edition 8888,Headset,7,0.7566,1
+1577,Asus Monitor Gamer MacBook Air 5927,Monitor Gamer,28,0.7936,0
+1578,JBL Home Theater Crystal 4344,Home Theater,60,0.5893,0
+1579,JBL Protetor de Surto Plus 1515,Protetor de Surto,1,0.5936,1
+1580,Nokia Smartphone iPhone 15 7043,Smartphone,60,0.5969,0
+1581,MSI Notebook Inspiron 7698,Notebook,13,0.8667,1
+1582,Apple Carregador Rápido Redmi Note 1311,Carregador Rapido,55,0.6313,0
+1583,Panasonic Protetor de Surto Series X 1408,Protetor de Surto,14,0.5106,1
+1584,Corsair SSD 1TB NVMe ThinkPad 2020,SSD,29,0.7570,0
+1585,Acer Mouse Sem Fio Inspiron 9962,Mouse,44,0.6537,0
+1586,Bose Protetor de Surto Crystal 9407,Protetor de Surto,2,0.5872,1
+1587,Bose Smart TV 4K Ultra Slim 8700,Smart TV,14,0.7773,1
+1588,Acer Mouse Sem Fio Legion 5745,Mouse,20,0.8069,1
+1589,Huawei Headset com Microfone Redmi Note 875,Headset,2,0.7885,1
+1590,LG Protetor de Surto Ultra Slim 4117,Protetor de Surto,3,0.5809,1
+1591,Asus Placa de Vídeo RTX Inspiron 4546,Placa de Video,13,0.8365,1
+1592,Logitech Mouse Sem Fio ROG Strix 1534,Mouse,23,0.7878,1
+1593,TCL Protetor de Surto Series X 564,Protetor de Surto,1,0.5936,1
+1594,TCL Protetor de Surto Plus 6991,Protetor de Surto,11,0.5298,1
+1595,Panasonic Protetor de Surto Plus 3234,Protetor de Surto,10,0.5362,1
+1596,Lenovo Placa de Vídeo RTX ROG Strix 5053,Placa de Video,16,0.8174,1
+1597,TCL Protetor de Surto Pro 2024 2703,Protetor de Surto,8,0.5489,1
+1598,Samsung Protetor de Surto Elite Edition 3464,Protetor de Surto,18,0.4851,1
+1599,Philips Protetor de Surto Crystal 1059,Protetor de Surto,4,0.5745,1
+1600,Apple Notebook ThinkPad 2109,Notebook,38,0.7071,0
+1601,Oppo Headset com Microfone Carbon Edition 2240,Headset,5,0.7693,1
+1602,Realme Smartphone Edition 2423,Smartphone,64,0.5714,0
+1603,Bose Protetor de Surto Crystal 8750,Protetor de Surto,7,0.5553,1
+1604,Panasonic Smart TV 4K Ultra Slim 2517,Smart TV,13,0.7837,1
+1605,Razer Mouse Sem Fio ThinkPad 2443,Mouse,4,0.9091,2
+1606,MSI Webcam Full HD Nitro 5 9414,Webcam,25,0.7398,1
+1607,Panasonic Protetor de Surto Series X 4374,Protetor de Surto,5,0.5681,1
+1608,LG Smart TV 4K Elite Edition 4757,Smart TV,13,0.7837,1
+1609,JBL Protetor de Surto Series X 9048,Protetor de Surto,9,0.5426,1
+1610,Realme Película de Vidro Global 2694,Pelicula de Vidro,47,0.6673,0
+1611,Panasonic Cabo HDMI 2.1 QLED 1393,Cabo HDMI,68,0.5483,0
+1612,LG Smart TV 4K Elite Edition 4662,Smart TV,7,0.8220,1
+1613,LG Micro-ondas Crystal 5064,Micro-ondas,76,0.4948,0
+1614,Dell Teclado Mecânico MacBook Air 5540,Teclado Mecanico,60,0.5944,0
+1615,JBL Protetor de Surto Elite Edition 7151,Protetor de Surto,8,0.5489,1
+1616,Samsung Headset com Microfone Carbon Edition 3688,Headset,2,0.7885,1
+1617,Panasonic Protetor de Surto QLED 5356,Protetor de Surto,1,0.5936,1
+1618,Philips Home Theater Crystal 5896,Home Theater,61,0.5830,0
+1619,Oppo Smartphone Moto G 7137,Smartphone,47,0.6799,0
+1620,HP SSD 1TB NVMe ROG Strix 4831,SSD,18,0.8272,1
+1621,Corsair Roteador Wi-Fi 6 Vostro 1827,Roteador Wi-Fi,30,0.7683,0
+1622,Asus Placa de Vídeo RTX Inspiron 7741,Placa de Video,2,0.9067,2
+1623,Apple Carregador Rápido iPhone 15 2064,Carregador Rapido,64,0.5739,0
+1624,TCL Protetor de Surto Elite Edition 7741,Protetor de Surto,2,0.5872,1
+1625,Philips Micro-ondas QLED 4682,Micro-ondas,69,0.5394,0
+1626,MSI Mouse Sem Fio G Series 4400,Mouse,23,0.7878,1
+1627,Philips Protetor de Surto Elite Edition 5780,Protetor de Surto,1,0.5936,1
+1628,Apple SSD 1TB NVMe Legion 3910,SSD,1,0.9358,2
+1629,Oppo Headset com Microfone iPhone 15 5936,Headset,33,0.5906,0
+1630,Sony Protetor de Surto Plus 3374,Protetor de Surto,7,0.5553,1
+1631,Realme Modem 5G Galaxy S23 5565,Modem,65,0.5650,0
+1632,Logitech Webcam Full HD Inspiron 6922,Webcam,26,0.7334,1
+1633,TCL Soundbar Crystal 5433,Soundbar,44,0.6890,0
+1634,LG Protetor de Surto Series X 7900,Protetor de Surto,1,0.5936,1
+1635,Xiaomi Headset com Microfone Galaxy S23 9767,Headset,19,0.6800,1
+1636,MSI Notebook MacBook Air 7571,Notebook,26,0.7837,1
+1637,Samsung Protetor de Surto Pro 2024 8165,Protetor de Surto,2,0.5872,1
+1638,Sony Caixa de Som Echo QLED 7964,Caixa de Som,44,0.6839,0
+1639,Samsung Protetor de Surto Ultra Slim 7800,Protetor de Surto,3,0.5809,1
+1640,Oppo Power Bank Carbon Edition 8939,Power Bank,23,0.8079,1
+1641,Corsair Mouse Sem Fio MacBook Air 951,Mouse,12,0.8580,1
+1642,Samsung Protetor de Surto Pro 2024 7697,Protetor de Surto,1,0.5936,1
+1643,HP SSD 1TB NVMe Legion 7203,SSD,15,0.8464,1
+1644,Oppo Película de Vidro Pixel 8 4628,Pelicula de Vidro,53,0.6290,0
+1645,Panasonic Fone de Ouvido Bluetooth Series X 8026,Fone de Ouvido,67,0.5497,0
+1646,Huawei Power Bank Pixel 8 4715,Power Bank,39,0.7058,0
+1647,JBL Smart TV 4K Crystal 7381,Smart TV,3,0.8475,1
+1648,Panasonic Protetor de Surto Series X 191,Protetor de Surto,1,0.5936,1
+1649,HP Mouse Sem Fio MacBook Air 5911,Mouse,8,0.8835,1
+1650,Sony Protetor de Surto Plus 5729,Protetor de Surto,1,0.5936,1
+1651,Acer Monitor Gamer MacBook Air 8963,Monitor Gamer,63,0.5702,0
+1652,Sony Protetor de Surto Elite Edition 9990,Protetor de Surto,7,0.5553,1
+1653,TCL Protetor de Surto Ultra Slim 9920,Protetor de Surto,6,0.5617,1
+1654,Corsair SSD 1TB NVMe ThinkPad 500,SSD,7,0.8975,1
+1655,Panasonic Micro-ondas OLED 8930,Micro-ondas,67,0.5522,0
+1656,Realme Smartwatch Carbon Edition 3396,Smartwatch,52,0.6505,0
+1657,LG Protetor de Surto Elite Edition 5065,Protetor de Surto,1,0.5936,1
+1658,Corsair Roteador Wi-Fi 6 Vostro 2752,Roteador Wi-Fi,45,0.6725,0
+1659,Lenovo Monitor Gamer MacBook Air 1526,Monitor Gamer,57,0.6085,0
+1660,Acer Webcam Full HD G Series 2939,Webcam,29,0.7143,0
+1661,Samsung Headset com Microfone Pixel 8 5968,Headset,5,0.7693,1
+1662,Sony Protetor de Surto QLED 798,Protetor de Surto,2,0.5872,1
+1663,Apple Placa de Vídeo RTX Inspiron 2470,Placa de Video,3,0.9003,1
+1664,TCL Smart TV 4K Elite Edition 5255,Smart TV,7,0.8220,1
+1665,JBL Protetor de Surto Elite Edition 5098,Protetor de Surto,3,0.5809,1
+1666,Philips Protetor de Surto Crystal 347,Protetor de Surto,1,0.5936,1
+1667,Oppo Capa de Silicone Edition 2763,Capa de Silicone,25,0.8153,1
+1668,Acer Mouse Sem Fio Inspiron 263,Mouse,9,0.8771,1
+1669,Logitech Placa de Vídeo RTX Nitro 5 540,Placa de Video,5,0.8876,1
+1670,HP Monitor Gamer ThinkPad 2952,Monitor Gamer,60,0.5893,0
+1671,LG Protetor de Surto Series X 492,Protetor de Surto,13,0.5170,1
+1672,Bose Protetor de Surto QLED 9559,Protetor de Surto,8,0.5489,1
+1673,Philips Protetor de Surto Ultra Slim 3179,Protetor de Surto,2,0.5872,1
+1674,LG Protetor de Surto Elite Edition 8007,Protetor de Surto,1,0.5936,1
+1675,Realme Power Bank Redmi Note 2487,Power Bank,26,0.7888,1
+1676,Dell Roteador Wi-Fi 6 Nitro 5 4514,Roteador Wi-Fi,3,0.9406,2
+1677,Acer SSD 1TB NVMe Vostro 3418,SSD,22,0.8017,1
+1678,Motorola Headset com Microfone Carbon Edition 3682,Headset,17,0.6927,1
+1679,TCL Protetor de Surto Pro 2024 4799,Protetor de Surto,3,0.5809,1
+1680,Lenovo Monitor Gamer Nitro 5 7552,Monitor Gamer,38,0.7298,0
+1681,Asus Mouse Sem Fio MacBook Air 7634,Mouse,29,0.7495,0
+1682,HP Roteador Wi-Fi 6 ROG Strix 9404,Roteador Wi-Fi,47,0.6597,0
+1683,Apple Smartphone iPhone 15 2758,Smartphone,56,0.6224,0
+1684,Huawei Headset com Microfone Galaxy S23 8501,Headset,7,0.7566,1
+1685,Apple Headset com Microfone Edition 9238,Headset,5,0.7693,1
+1686,Oppo Power Bank Redmi Note 5451,Power Bank,4,0.9292,2
+1687,HP Teclado Mecânico Nitro 5 7045,Teclado Mecanico,28,0.7986,0
+1688,Panasonic Protetor de Surto Ultra Slim 4511,Protetor de Surto,10,0.5362,1
+1689,Bose Smart TV 4K QLED 9107,Smart TV,31,0.6688,0
+1690,JBL Protetor de Surto Series X 5697,Protetor de Surto,1,0.5936,1
+1691,LG Protetor de Surto Pro 2024 860,Protetor de Surto,1,0.5936,1
+1692,LG Home Theater Ultra Slim 6000,Home Theater,42,0.7042,0
+1693,Apple Mouse Sem Fio Inspiron 9796,Mouse,17,0.8261,1
+1694,Huawei Headset com Microfone Redmi Note 5654,Headset,8,0.7502,1
+1695,Motorola Power Bank iPhone 15 7828,Power Bank,24,0.8015,1
+1696,Oppo Headset com Microfone Global 6558,Headset,1,0.7949,1
+1697,TCL Caixa de Som Echo Crystal 1799,Caixa de Som,21,0.8307,1
+1698,Sony Micro-ondas Crystal 9020,Micro-ondas,94,0.3799,0
+1699,Xiaomi Headset com Microfone Pixel 8 3133,Headset,12,0.7247,1
+1700,Xiaomi Headset com Microfone Global 7603,Headset,10,0.7374,1
+1701,Apple Headset com Microfone Edition 9165,Headset,10,0.7374,1
+1702,Dell Placa de Vídeo RTX G Series 4334,Placa de Video,8,0.8684,1
+1703,Logitech Webcam Full HD Nitro 5 4481,Webcam,5,0.8675,1
+1704,Samsung Protetor de Surto Elite Edition 4956,Protetor de Surto,1,0.5936,1
+1705,Bose Fone de Ouvido Bluetooth Ultra Slim 7629,Fone de Ouvido,56,0.6199,0
+1706,Panasonic Smart TV 4K OLED 5218,Smart TV,5,0.8348,1
+1707,Samsung Protetor de Surto Plus 9200,Protetor de Surto,9,0.5426,1
+1708,Apple Placa de Vídeo RTX ThinkPad 3420,Placa de Video,1,0.9131,2
+1709,Apple Headset com Microfone Edition 7294,Headset,7,0.7566,1
+1710,Sony Fone de Ouvido Bluetooth Pro 2024 1746,Fone de Ouvido,22,0.8369,1
+1711,Samsung Smart TV 4K Plus 8695,Smart TV,10,0.8028,1
+1712,JBL Protetor de Surto Series X 6516,Protetor de Surto,16,0.4979,1
+1713,TCL Protetor de Surto QLED 3567,Protetor de Surto,1,0.5936,1
+1714,Xiaomi Smartphone Global 3554,Smartphone,71,0.5267,0
+1715,Razer Mouse Sem Fio Inspiron 7275,Mouse,1,0.9282,2
+1716,Logitech SSD 1TB NVMe Vostro 8743,SSD,7,0.8975,1
+1717,Realme Smartwatch Global 6784,Smartwatch,39,0.7335,0
+1718,Samsung Protetor de Surto Pro 2024 1451,Protetor de Surto,1,0.5936,1
+1719,Apple Webcam Full HD ROG Strix 7402,Webcam,1,0.8930,1
+1720,Razer Webcam Full HD Inspiron 2769,Webcam,6,0.8611,1
+1721,Nokia Capa de Silicone iPhone 15 2643,Capa de Silicone,47,0.6748,0
+1722,Nokia Power Bank Redmi Note 3990,Power Bank,34,0.7377,0
+1723,Dell Webcam Full HD ThinkPad 7546,Webcam,38,0.6568,0
+1724,Acer Webcam Full HD ROG Strix 2986,Webcam,1,0.8930,1
+1725,Samsung Protetor de Surto Series X 8882,Protetor de Surto,2,0.5872,1
+1726,Motorola Capa de Silicone iPhone 15 3779,Capa de Silicone,50,0.6557,0
+1727,Asus Placa de Vídeo RTX G Series 7213,Placa de Video,14,0.8301,1
+1728,JBL Smart TV 4K OLED 8983,Smart TV,12,0.7901,1
+1729,Samsung Protetor de Surto OLED 8758,Protetor de Surto,1,0.5936,1
+1730,Sony Protetor de Surto Elite Edition 4481,Protetor de Surto,1,0.5936,1
+1731,HP Webcam Full HD Inspiron 2979,Webcam,23,0.7526,1
+1732,Philips Caixa de Som Echo Ultra Slim 3736,Caixa de Som,20,0.8371,1
+1733,Apple Mouse Sem Fio Nitro 5 6397,Mouse,18,0.8197,1
+1734,Nokia Película de Vidro Redmi Note 3802,Pelicula de Vidro,89,0.3992,0
+1735,Acer Webcam Full HD Vostro 7590,Webcam,5,0.8675,1
+1736,Bose Caixa de Som Echo Pro 2024 9027,Caixa de Som,44,0.6839,0
+1737,Dell Webcam Full HD Nitro 5 5294,Webcam,2,0.8866,1
+1738,Huawei Power Bank Redmi Note 253,Power Bank,48,0.6483,0
+1739,Realme Headset com Microfone Global 8528,Headset,3,0.7821,1
+1740,MSI Monitor Gamer MacBook Air 6914,Monitor Gamer,20,0.8447,1
+1741,Asus Webcam Full HD Vostro 3745,Webcam,25,0.7398,1
+1742,Panasonic Smart TV 4K QLED 9670,Smart TV,16,0.7645,1
+1743,Asus Roteador Wi-Fi 6 MacBook Air 4382,Roteador Wi-Fi,33,0.7491,0
+1744,Bose Protetor de Surto Pro 2024 7933,Protetor de Surto,6,0.5617,1
+1745,Apple Headset com Microfone iPhone 15 9946,Headset,21,0.6672,1
+1746,JBL Protetor de Surto Series X 8611,Protetor de Surto,1,0.5936,1
+1747,Asus SSD 1TB NVMe G Series 5246,SSD,10,0.8783,1
+1748,Oppo Película de Vidro Moto G 9844,Pelicula de Vidro,12,0.8907,1
+1749,Razer Placa de Vídeo RTX Inspiron 3796,Placa de Video,10,0.8557,1
+1750,Realme Power Bank Edition 913,Power Bank,38,0.7122,0
+1751,Panasonic Protetor de Surto Crystal 6874,Protetor de Surto,4,0.5745,1
+1752,Xiaomi Capa de Silicone Carbon Edition 5210,Capa de Silicone,53,0.6365,0
+1753,Dell Placa de Vídeo RTX Legion 6721,Placa de Video,21,0.7855,1
+1754,Samsung Protetor de Surto QLED 1273,Protetor de Surto,2,0.5872,1
+1755,HP Teclado Mecânico ThinkPad 3891,Teclado Mecanico,37,0.7412,0
+1756,TCL Protetor de Surto Pro 2024 1360,Protetor de Surto,6,0.5617,1
+1757,Realme Power Bank Moto G 6112,Power Bank,11,0.8845,1
+1758,Motorola Modem 5G Pixel 8 8679,Modem,57,0.6160,0
+1759,Realme Power Bank iPhone 15 4765,Power Bank,27,0.7824,1
+1760,HP Webcam Full HD MacBook Air 666,Webcam,9,0.8419,1
+1761,Panasonic Protetor de Surto Elite Edition 338,Protetor de Surto,2,0.5872,1
+1762,Logitech Placa de Vídeo RTX MacBook Air 5006,Placa de Video,23,0.7727,1
+1763,Motorola Headset com Microfone Redmi Note 8865,Headset,18,0.6864,1
+1764,Apple Headset com Microfone Pixel 8 6892,Headset,3,0.7821,1
+1765,Apple Modem 5G Redmi Note 5790,Modem,37,0.7437,0
+1766,Samsung Protetor de Surto Plus 5593,Protetor de Surto,3,0.5809,1
+1767,Bose Protetor de Surto OLED 341,Protetor de Surto,11,0.5298,1
+1768,Oppo Headset com Microfone Galaxy S23 5385,Headset,3,0.7821,1
+1769,Philips Protetor de Surto Plus 5281,Protetor de Surto,2,0.5872,1
+1770,Lenovo Mouse Sem Fio Nitro 5 9630,Mouse,25,0.7750,1
+1771,Panasonic Protetor de Surto Series X 694,Protetor de Surto,2,0.5872,1
+1772,LG Protetor de Surto Elite Edition 2137,Protetor de Surto,6,0.5617,1
+1773,Oppo Headset com Microfone Carbon Edition 1101,Headset,9,0.7438,1
+1774,LG Home Theater Elite Edition 4488,Home Theater,71,0.5191,0
+1775,Sony Protetor de Surto Series X 1988,Protetor de Surto,3,0.5809,1
+1776,Samsung Headset com Microfone Carbon Edition 5358,Headset,7,0.7566,1
+1777,HP Notebook Vostro 9083,Notebook,2,0.9369,2
+1778,Realme Smartphone Global 8838,Smartphone,26,0.8139,1
+1779,Realme Película de Vidro Galaxy S23 5729,Pelicula de Vidro,7,0.9226,2
+1780,LG Protetor de Surto Plus 7036,Protetor de Surto,27,0.4277,1
+1781,Logitech Roteador Wi-Fi 6 G Series 715,Roteador Wi-Fi,7,0.9151,2
+1782,MSI Webcam Full HD ThinkPad 9358,Webcam,16,0.7972,1
+1783,Asus SSD 1TB NVMe Vostro 6565,SSD,6,0.9038,2
+1784,JBL Smart TV 4K Pro 2024 6620,Smart TV,17,0.7582,1
+1785,Logitech Webcam Full HD Inspiron 7740,Webcam,4,0.8738,1
+1786,Apple Headset com Microfone iPhone 15 1322,Headset,10,0.7374,1
+1787,Panasonic Smart TV 4K Ultra Slim 9304,Smart TV,20,0.7390,1
+1788,Xiaomi Película de Vidro Edition 7806,Pelicula de Vidro,21,0.8333,1
+1789,Philips Caixa de Som Echo OLED 8616,Caixa de Som,46,0.6712,0
+1790,Huawei Headset com Microfone Carbon Edition 6592,Headset,4,0.7757,1
+1791,Samsung Headset com Microfone Redmi Note 8722,Headset,1,0.7949,1
+1792,Sony Protetor de Surto Elite Edition 145,Protetor de Surto,1,0.5936,1
+1793,Asus Notebook ROG Strix 1909,Notebook,10,0.8859,1
+1794,LG Protetor de Surto Ultra Slim 2444,Protetor de Surto,5,0.5681,1
+1795,TCL Protetor de Surto Pro 2024 8193,Protetor de Surto,1,0.5936,1
+1796,Acer Roteador Wi-Fi 6 Vostro 9321,Roteador Wi-Fi,42,0.6917,0
+1797,TCL Protetor de Surto Series X 8304,Protetor de Surto,3,0.5809,1
+1798,Razer Mouse Sem Fio Legion 8892,Mouse,7,0.8899,1
+1799,Samsung Smartwatch Carbon Edition 2318,Smartwatch,47,0.6824,0
+1800,Sony Smart TV 4K Plus 4045,Smart TV,1,0.8603,1
+1801,Sony Cabo HDMI 2.1 Pro 2024 510,Cabo HDMI,41,0.7207,0
+1802,Realme Headset com Microfone Pixel 8 3641,Headset,21,0.6672,1
+1803,LG Protetor de Surto Ultra Slim 450,Protetor de Surto,1,0.5936,1
+1804,Nokia Headset com Microfone Pixel 8 5896,Headset,3,0.7821,1
+1805,MSI Webcam Full HD Nitro 5 39,Webcam,5,0.8675,1
+1806,Motorola Smartwatch iPhone 15 2171,Smartwatch,57,0.6186,0
+1807,Bose Protetor de Surto Elite Edition 5208,Protetor de Surto,1,0.5936,1
+1808,Asus Notebook Inspiron 9410,Notebook,19,0.8284,1
+1809,Acer Notebook Legion 7380,Notebook,3,0.9305,2
+1810,Philips Protetor de Surto Elite Edition 7655,Protetor de Surto,1,0.5936,1
+1811,Oppo Smartwatch Edition 9886,Smartwatch,44,0.7015,0
+1812,Xiaomi Headset com Microfone Redmi Note 7876,Headset,10,0.7374,1
+1813,TCL Smart TV 4K Plus 724,Smart TV,1,0.8603,1
+1814,Oppo Headset com Microfone Carbon Edition 5408,Headset,29,0.6162,0
+1815,LG Protetor de Surto Crystal 8441,Protetor de Surto,4,0.5745,1
+1816,Razer Notebook Inspiron 2710,Notebook,27,0.7773,1
+1817,Panasonic Protetor de Surto Elite Edition 2124,Protetor de Surto,6,0.5617,1
+1818,Apple Placa de Vídeo RTX G Series 2363,Placa de Video,36,0.6897,0
+1819,Acer Webcam Full HD ROG Strix 9848,Webcam,18,0.7845,1
+1820,Dell Mouse Sem Fio Legion 3862,Mouse,19,0.8133,1
+1821,Lenovo SSD 1TB NVMe Nitro 5 4970,SSD,31,0.7443,0
+1822,Corsair Teclado Mecânico Vostro 2147,Teclado Mecanico,64,0.5688,0
+1823,JBL Soundbar Crystal 1972,Soundbar,23,0.8230,1
+1824,Huawei Headset com Microfone Redmi Note 9837,Headset,4,0.7757,1
+1825,LG Soundbar Pro 2024 8013,Soundbar,20,0.8422,1
+1826,MSI Placa de Vídeo RTX Legion 8425,Placa de Video,7,0.8748,1
+1827,MSI Notebook Legion 451,Notebook,8,0.8986,1
+1828,Nokia Headset com Microfone Edition 4272,Headset,1,0.7949,1
+1829,Oppo Power Bank Edition 5720,Power Bank,24,0.8015,1
+1830,Panasonic Smart TV 4K QLED 1365,Smart TV,6,0.8284,1
+1831,Huawei Headset com Microfone iPhone 15 3799,Headset,1,0.7949,1
+1832,Philips Soundbar Pro 2024 8359,Soundbar,39,0.7209,0
+1833,JBL Smart TV 4K OLED 3818,Smart TV,12,0.7901,1
+1834,Dell Webcam Full HD MacBook Air 1722,Webcam,15,0.8036,1
+1835,HP Teclado Mecânico Legion 2657,Teclado Mecanico,32,0.7731,0
+1836,Nokia Carregador Rápido Carbon Edition 228,Carregador Rapido,34,0.7654,0
+1837,Sony Protetor de Surto Series X 8184,Protetor de Surto,1,0.5936,1
+1838,Panasonic Protetor de Surto OLED 5861,Protetor de Surto,3,0.5809,1
+1839,Lenovo Mouse Sem Fio G Series 9429,Mouse,34,0.7176,0
+1840,JBL Smart TV 4K Plus 7690,Smart TV,4,0.8411,1
+1841,Nokia Headset com Microfone iPhone 15 68,Headset,6,0.7630,1
+1842,MSI Placa de Vídeo RTX MacBook Air 9954,Placa de Video,6,0.8812,1
+1843,Panasonic Protetor de Surto Pro 2024 6839,Protetor de Surto,3,0.5809,1
+1844,LG Protetor de Surto Pro 2024 8275,Protetor de Surto,1,0.5936,1
+1845,Bose Protetor de Surto QLED 5759,Protetor de Surto,9,0.5426,1
+1846,Panasonic Caixa de Som Echo QLED 6744,Caixa de Som,27,0.7924,1
+1847,Philips Caixa de Som Echo Crystal 1881,Caixa de Som,8,0.9137,2
+1848,Bose Protetor de Surto OLED 376,Protetor de Surto,2,0.5872,1
+1849,Xiaomi Carregador Rápido iPhone 15 9342,Carregador Rapido,24,0.8292,1
+1850,Panasonic Protetor de Surto OLED 6129,Protetor de Surto,1,0.5936,1
+1851,LG Cabo HDMI 2.1 Series X 3302,Cabo HDMI,31,0.7845,0
+1852,Nokia Headset com Microfone Edition 9536,Headset,8,0.7502,1
+1853,Panasonic Protetor de Surto OLED 2402,Protetor de Surto,15,0.5043,1
+1854,Samsung Smart TV 4K Series X 4177,Smart TV,5,0.8348,1
+1855,Samsung Smart TV 4K Series X 517,Smart TV,16,0.7645,1
+1856,Nokia Capa de Silicone Global 2742,Capa de Silicone,53,0.6365,0
+1857,TCL Caixa de Som Echo OLED 8545,Caixa de Som,17,0.8563,1
+1858,JBL Smart TV 4K OLED 5484,Smart TV,23,0.7199,1
+1859,Samsung Protetor de Surto Ultra Slim 1382,Protetor de Surto,1,0.5936,1
+1860,Acer SSD 1TB NVMe Legion 4292,SSD,7,0.8975,1
+1861,Philips Protetor de Surto Ultra Slim 916,Protetor de Surto,1,0.5936,1
+1862,TCL Soundbar Elite Edition 9996,Soundbar,7,0.9251,2
+1863,Panasonic Protetor de Surto Plus 5413,Protetor de Surto,4,0.5745,1
+1864,Acer SSD 1TB NVMe Inspiron 683,SSD,1,0.9358,2
+1865,LG Soundbar Pro 2024 9841,Soundbar,27,0.7975,1
+1866,LG Soundbar OLED 2294,Soundbar,53,0.6315,0
+1867,TCL Protetor de Surto Crystal 5571,Protetor de Surto,9,0.5426,1
+1868,Huawei Headset com Microfone Moto G 4012,Headset,4,0.7757,1
+1869,Acer Mouse Sem Fio ThinkPad 3020,Mouse,18,0.8197,1
+1870,Samsung Protetor de Surto Plus 6742,Protetor de Surto,2,0.5872,1
+1871,JBL Smart TV 4K Pro 2024 7992,Smart TV,4,0.8411,1
+1872,Samsung Headset com Microfone Galaxy S23 9278,Headset,17,0.6927,1
+1873,Samsung Protetor de Surto Pro 2024 831,Protetor de Surto,4,0.5745,1
+1874,Acer Mouse Sem Fio Nitro 5 826,Mouse,2,0.9218,2
+1875,Huawei Carregador Rápido Pixel 8 4904,Carregador Rapido,61,0.5930,0
+1876,Sony Fone de Ouvido Bluetooth Pro 2024 6023,Fone de Ouvido,71,0.5242,0
+1877,MSI Webcam Full HD G Series 68,Webcam,16,0.7972,1
+1878,Realme Modem 5G Galaxy S23 8224,Modem,49,0.6671,0
+1879,Samsung Protetor de Surto Plus 9380,Protetor de Surto,3,0.5809,1
+1880,Samsung Smart TV 4K QLED 7239,Smart TV,10,0.8028,1
+1881,Dell Placa de Vídeo RTX Inspiron 8491,Placa de Video,14,0.8301,1
+1882,Sony Caixa de Som Echo Ultra Slim 5653,Caixa de Som,64,0.5563,0
+1883,Lenovo Monitor Gamer ThinkPad 4282,Monitor Gamer,46,0.6787,0
+1884,Panasonic Protetor de Surto Ultra Slim 5291,Protetor de Surto,3,0.5809,1
+1885,MSI Notebook Vostro 1720,Notebook,37,0.7135,0
+1886,Motorola Carregador Rápido Redmi Note 9733,Carregador Rapido,76,0.4973,0
+1887,TCL Protetor de Surto Plus 996,Protetor de Surto,2,0.5872,1
+1888,TCL Protetor de Surto Pro 2024 6592,Protetor de Surto,1,0.5936,1
+1889,MSI Notebook Vostro 9964,Notebook,30,0.7582,0
+1890,Apple Capa de Silicone Moto G 4584,Capa de Silicone,31,0.7770,0
+1891,Philips Home Theater QLED 8529,Home Theater,46,0.6787,0
+1892,Philips Smart TV 4K Crystal 2486,Smart TV,7,0.8220,1
+1893,Nokia Power Bank Pixel 8 4308,Power Bank,35,0.7313,0
+1894,Logitech Webcam Full HD Vostro 5574,Webcam,11,0.8292,1
+1895,Apple Headset com Microfone iPhone 15 513,Headset,1,0.7949,1
+1896,Motorola Power Bank Galaxy S23 3756,Power Bank,33,0.7441,0
+1897,JBL Protetor de Surto OLED 8016,Protetor de Surto,1,0.5936,1
+1898,TCL Protetor de Surto OLED 737,Protetor de Surto,4,0.5745,1
+1899,Oppo Headset com Microfone Pixel 8 8969,Headset,6,0.7630,1
+1900,Motorola Smartwatch Edition 5969,Smartwatch,55,0.6313,0
+1901,Huawei Smartwatch Edition 6753,Smartwatch,57,0.6186,0
+1902,Lenovo Placa de Vídeo RTX Legion 3458,Placa de Video,36,0.6897,0
+1903,Sony Protetor de Surto Plus 1704,Protetor de Surto,5,0.5681,1
+1904,LG Smart TV 4K Ultra Slim 2205,Smart TV,2,0.8539,1
+1905,LG Caixa de Som Echo Pro 2024 6032,Caixa de Som,32,0.7605,0
+1906,Asus SSD 1TB NVMe G Series 8071,SSD,18,0.8272,1
+1907,Panasonic Protetor de Surto OLED 264,Protetor de Surto,15,0.5043,1
+1908,Dell Roteador Wi-Fi 6 ROG Strix 7542,Roteador Wi-Fi,22,0.8193,1
+1909,JBL Micro-ondas Elite Edition 1875,Micro-ondas,73,0.5139,0
+1910,Huawei Headset com Microfone Pixel 8 8691,Headset,1,0.7949,1
+1911,Samsung Protetor de Surto Ultra Slim 4411,Protetor de Surto,7,0.5553,1
+1912,Samsung Cabo HDMI 2.1 Ultra Slim 7351,Cabo HDMI,60,0.5994,0
+1913,Samsung Protetor de Surto Elite Edition 1070,Protetor de Surto,5,0.5681,1
+1914,Bose Smart TV 4K Series X 5756,Smart TV,3,0.8475,1
+1915,Corsair Teclado Mecânico G Series 9599,Teclado Mecanico,47,0.6774,0
+1916,Xiaomi Headset com Microfone Redmi Note 2715,Headset,10,0.7374,1
+1917,Logitech Placa de Vídeo RTX Vostro 4853,Placa de Video,15,0.8238,1
+1918,Oppo Película de Vidro Carbon Edition 403,Pelicula de Vidro,13,0.8843,1
+1919,TCL Smart TV 4K QLED 197,Smart TV,26,0.7007,1
+1920,Asus Placa de Vídeo RTX Vostro 524,Placa de Video,21,0.7855,1
+1921,Xiaomi Headset com Microfone Global 7933,Headset,8,0.7502,1
+1922,Motorola Headset com Microfone Moto G 7071,Headset,1,0.7949,1
+1923,Sony Protetor de Surto Ultra Slim 8205,Protetor de Surto,7,0.5553,1
+1924,Sony Protetor de Surto OLED 5099,Protetor de Surto,6,0.5617,1
+1925,Logitech Placa de Vídeo RTX ThinkPad 2245,Placa de Video,1,0.9131,2
+1926,Huawei Headset com Microfone Moto G 2616,Headset,2,0.7885,1
+1927,Motorola Headset com Microfone Carbon Edition 3458,Headset,4,0.7757,1
+1928,Huawei Headset com Microfone Pixel 8 6277,Headset,4,0.7757,1
+1929,Realme Headset com Microfone iPhone 15 2502,Headset,3,0.7821,1
+1930,Apple Power Bank Moto G 2475,Power Bank,34,0.7377,0
+1931,HP Roteador Wi-Fi 6 Nitro 5 1381,Roteador Wi-Fi,35,0.7363,0
+1932,LG Smart TV 4K OLED 1541,Smart TV,1,0.8603,1
+1933,Dell Notebook ROG Strix 5073,Notebook,14,0.8603,1
+1934,Corsair Webcam Full HD Inspiron 4695,Webcam,14,0.8100,1
+1935,Samsung Headset com Microfone Galaxy S23 6689,Headset,2,0.7885,1
+1936,JBL Micro-ondas Elite Edition 3877,Micro-ondas,76,0.4948,0
+1937,TCL Protetor de Surto Crystal 1745,Protetor de Surto,1,0.5936,1
+1938,Panasonic Protetor de Surto Pro 2024 7982,Protetor de Surto,10,0.5362,1
+1939,Samsung Headset com Microfone Edition 4251,Headset,5,0.7693,1
+1940,Lenovo Placa de Vídeo RTX MacBook Air 6923,Placa de Video,20,0.7918,1
+1941,Philips Smart TV 4K Series X 7655,Smart TV,1,0.8603,1
+1942,Samsung Smart TV 4K QLED 7371,Smart TV,9,0.8092,1
+1943,Samsung Protetor de Surto Crystal 7515,Protetor de Surto,2,0.5872,1
+1944,Logitech Mouse Sem Fio Nitro 5 657,Mouse,1,0.9282,2
+1945,HP SSD 1TB NVMe Legion 5100,SSD,36,0.7124,0
+1946,Sony Caixa de Som Echo QLED 8427,Caixa de Som,69,0.5244,0
+1947,Logitech Monitor Gamer Vostro 8272,Monitor Gamer,21,0.8383,1
+1948,Panasonic Protetor de Surto Series X 1755,Protetor de Surto,15,0.5043,1
+1949,Asus Notebook Nitro 5 6182,Notebook,36,0.7199,0
+1950,Razer Placa de Vídeo RTX Inspiron 6467,Placa de Video,30,0.7280,0
+1951,HP SSD 1TB NVMe Vostro 4171,SSD,3,0.9230,2
+1952,Panasonic Protetor de Surto Crystal 9441,Protetor de Surto,1,0.5936,1
+1953,Razer Webcam Full HD Legion 7214,Webcam,1,0.8930,1
+1954,Razer Webcam Full HD ThinkPad 1723,Webcam,22,0.7589,1
+1955,Motorola Power Bank Moto G 2669,Power Bank,10,0.8909,1
+1956,Logitech Notebook ROG Strix 1048,Notebook,8,0.8986,1
+1957,Lenovo Placa de Vídeo RTX ROG Strix 7358,Placa de Video,18,0.8046,1
+1958,JBL Protetor de Surto QLED 9666,Protetor de Surto,4,0.5745,1
+1959,Xiaomi Modem 5G Moto G 4102,Modem,19,0.8586,1
+1960,Philips Protetor de Surto Elite Edition 6579,Protetor de Surto,7,0.5553,1
+1961,Philips Protetor de Surto OLED 6726,Protetor de Surto,1,0.5936,1
+1962,Oppo Modem 5G Carbon Edition 7930,Modem,46,0.6863,0
+1963,Samsung Headset com Microfone Global 1313,Headset,1,0.7949,1
+1964,Lenovo Mouse Sem Fio MacBook Air 5429,Mouse,25,0.7750,1
+1965,Motorola Carregador Rápido Moto G 4243,Carregador Rapido,37,0.7462,0
+1966,Corsair Roteador Wi-Fi 6 Inspiron 6907,Roteador Wi-Fi,43,0.6853,0
+1967,JBL Protetor de Surto QLED 166,Protetor de Surto,4,0.5745,1
+1968,Razer Webcam Full HD ROG Strix 4320,Webcam,10,0.8355,1
+1969,Samsung Protetor de Surto Elite Edition 6664,Protetor de Surto,1,0.5936,1
+1970,Acer Monitor Gamer ThinkPad 8853,Monitor Gamer,21,0.8383,1
+1971,LG Smart TV 4K Ultra Slim 739,Smart TV,11,0.7965,1
+1972,TCL Smart TV 4K Crystal 2699,Smart TV,12,0.7901,1
+1973,Samsung Smart TV 4K OLED 8449,Smart TV,4,0.8411,1
+1974,JBL Protetor de Surto Ultra Slim 9394,Protetor de Surto,5,0.5681,1
+1975,Samsung Headset com Microfone Moto G 6002,Headset,31,0.6034,0
+1976,HP Placa de Vídeo RTX ROG Strix 2913,Placa de Video,1,0.9131,2
+1977,TCL Fone de Ouvido Bluetooth Crystal 1076,Fone de Ouvido,62,0.5816,0
+1978,MSI Placa de Vídeo RTX Legion 4839,Placa de Video,38,0.6769,0
+1979,Panasonic Home Theater Pro 2024 5812,Home Theater,60,0.5893,0
+1980,Bose Protetor de Surto OLED 9360,Protetor de Surto,2,0.5872,1
+1981,Realme Headset com Microfone Carbon Edition 4760,Headset,1,0.7949,1
+1982,LG Protetor de Surto OLED 5062,Protetor de Surto,1,0.5936,1
+1983,Samsung Caixa de Som Echo Series X 329,Caixa de Som,51,0.6392,0
+1984,TCL Micro-ondas Ultra Slim 2969,Micro-ondas,65,0.5650,0
+1985,Logitech Notebook Vostro 5908,Notebook,22,0.8093,1
+1986,MSI Mouse Sem Fio G Series 4207,Mouse,27,0.7623,1
+1987,Panasonic Cabo HDMI 2.1 QLED 1622,Cabo HDMI,44,0.7015,0
+1988,Panasonic Protetor de Surto Ultra Slim 5133,Protetor de Surto,1,0.5936,1
+1989,TCL Home Theater Pro 2024 6543,Home Theater,69,0.5319,0
+1990,TCL Protetor de Surto QLED 9925,Protetor de Surto,3,0.5809,1
+1991,LG Protetor de Surto Elite Edition 4548,Protetor de Surto,1,0.5936,1
+1992,Philips Protetor de Surto Crystal 1162,Protetor de Surto,7,0.5553,1
+1993,LG Home Theater Plus 26,Home Theater,70,0.5255,0
+1994,Razer Notebook Vostro 14,Notebook,3,0.9305,2
+1995,TCL Protetor de Surto OLED 8469,Protetor de Surto,7,0.5553,1
+1996,Logitech Roteador Wi-Fi 6 Vostro 3406,Roteador Wi-Fi,47,0.6597,0
+1997,MSI Monitor Gamer Inspiron 2224,Monitor Gamer,52,0.6404,0
+1998,Dell Placa de Vídeo RTX MacBook Air 8190,Placa de Video,5,0.8876,1
+1999,TCL Protetor de Surto Pro 2024 658,Protetor de Surto,8,0.5489,1
+2000,JBL Smart TV 4K Series X 3046,Smart TV,22,0.7262,1
+2001,TCL Protetor de Surto Series X 4021,Protetor de Surto,3,0.5809,1
+2002,Motorola Headset com Microfone Redmi Note 9183,Headset,1,0.7949,1
+2003,Nokia Capa de Silicone Galaxy S23 6128,Capa de Silicone,46,0.6812,0
+2004,Philips Caixa de Som Echo Elite Edition 2077,Caixa de Som,39,0.7158,0
+2005,Acer SSD 1TB NVMe Nitro 5 9456,SSD,23,0.7953,1
+2006,Lenovo Placa de Vídeo RTX MacBook Air 8538,Placa de Video,27,0.7472,1
+2007,Acer Webcam Full HD MacBook Air 1195,Webcam,24,0.7462,1
+2008,Lenovo Webcam Full HD ThinkPad 1197,Webcam,2,0.8866,1
+2009,Logitech SSD 1TB NVMe Legion 3968,SSD,29,0.7570,0
+2010,Corsair SSD 1TB NVMe Inspiron 8214,SSD,12,0.8655,1
+2011,Oppo Capa de Silicone Galaxy S23 2312,Capa de Silicone,57,0.6110,0
+2012,LG Smart TV 4K Series X 4362,Smart TV,8,0.8156,1
+2013,Sony Protetor de Surto Elite Edition 9804,Protetor de Surto,16,0.4979,1
+2014,Dell Roteador Wi-Fi 6 ROG Strix 96,Roteador Wi-Fi,32,0.7555,0
+2015,Panasonic Cabo HDMI 2.1 Crystal 3605,Cabo HDMI,71,0.5292,0
+2016,Corsair Webcam Full HD Inspiron 1476,Webcam,2,0.8866,1
+2017,Oppo Headset com Microfone Pixel 8 1141,Headset,2,0.7885,1
+2018,Sony Protetor de Surto QLED 9798,Protetor de Surto,9,0.5426,1
+2019,Logitech Webcam Full HD Vostro 4228,Webcam,1,0.8930,1
+2020,Apple Película de Vidro Moto G 7427,Pelicula de Vidro,27,0.7950,1
+2021,Razer Teclado Mecânico Vostro 5918,Teclado Mecanico,51,0.6518,0
+2022,MSI Notebook Vostro 1962,Notebook,8,0.8986,1
+2023,Bose Protetor de Surto OLED 3258,Protetor de Surto,5,0.5681,1
+2024,Oppo Capa de Silicone Global 8208,Capa de Silicone,42,0.7068,0
+2025,Philips Protetor de Surto Pro 2024 5177,Protetor de Surto,1,0.5936,1
+2026,Nokia Headset com Microfone Edition 4883,Headset,8,0.7502,1
+2027,JBL Smart TV 4K QLED 5276,Smart TV,5,0.8348,1
+2028,Samsung Headset com Microfone Moto G 2265,Headset,6,0.7630,1
+2029,LG Protetor de Surto Ultra Slim 30,Protetor de Surto,1,0.5936,1
+2030,Philips Smart TV 4K Crystal 3879,Smart TV,25,0.7071,1
+2031,Xiaomi Headset com Microfone Pixel 8 6425,Headset,8,0.7502,1
+2032,Samsung Headset com Microfone iPhone 15 1197,Headset,2,0.7885,1
+2033,Bose Protetor de Surto Crystal 7912,Protetor de Surto,1,0.5936,1
+2034,Samsung Protetor de Surto Plus 3341,Protetor de Surto,8,0.5489,1
+2035,Dell Webcam Full HD G Series 1893,Webcam,15,0.8036,1
+2036,Apple Power Bank Carbon Edition 2024,Power Bank,6,0.9164,2
+2037,Razer Webcam Full HD ThinkPad 1776,Webcam,7,0.8547,1
+2038,Corsair Roteador Wi-Fi 6 Vostro 1358,Roteador Wi-Fi,1,0.9534,2
+2039,HP Roteador Wi-Fi 6 ROG Strix 2672,Roteador Wi-Fi,20,0.8321,1
+2040,Acer SSD 1TB NVMe ThinkPad 8662,SSD,20,0.8145,1
+2041,Realme Capa de Silicone Redmi Note 792,Capa de Silicone,65,0.5599,0
+2042,Apple Headset com Microfone iPhone 15 6888,Headset,1,0.7949,1
+2043,Acer Notebook ThinkPad 7985,Notebook,18,0.8348,1
+2044,Philips Protetor de Surto OLED 3704,Protetor de Surto,2,0.5872,1
+2045,Bose Smart TV 4K OLED 7913,Smart TV,10,0.8028,1
+2046,LG Protetor de Surto Elite Edition 9078,Protetor de Surto,2,0.5872,1
+2047,HP Webcam Full HD MacBook Air 6670,Webcam,1,0.8930,1
+2048,LG Protetor de Surto Ultra Slim 8434,Protetor de Surto,1,0.5936,1
+2049,TCL Protetor de Surto Pro 2024 9483,Protetor de Surto,2,0.5872,1
+2050,Bose Protetor de Surto Ultra Slim 4408,Protetor de Surto,1,0.5936,1
+2051,Philips Protetor de Surto Pro 2024 6628,Protetor de Surto,7,0.5553,1
+2052,LG Soundbar Pro 2024 1016,Soundbar,65,0.5549,0
+2053,Corsair SSD 1TB NVMe MacBook Air 7063,SSD,18,0.8272,1
+2054,LG Protetor de Surto Plus 9453,Protetor de Surto,1,0.5936,1
+2055,JBL Protetor de Surto Pro 2024 7749,Protetor de Surto,1,0.5936,1
+2056,Nokia Película de Vidro Global 3131,Pelicula de Vidro,42,0.6992,0
+2057,Panasonic Smart TV 4K Pro 2024 5271,Smart TV,17,0.7582,1
+2058,Sony Protetor de Surto Plus 3346,Protetor de Surto,4,0.5745,1
+2059,Huawei Headset com Microfone Galaxy S23 9962,Headset,7,0.7566,1
+2060,Logitech Placa de Vídeo RTX G Series 3962,Placa de Video,4,0.8940,1
+2061,MSI Roteador Wi-Fi 6 Vostro 6912,Roteador Wi-Fi,33,0.7491,0
+2062,Huawei Película de Vidro Edition 2468,Pelicula de Vidro,21,0.8333,1
+2063,Huawei Película de Vidro Galaxy S23 6032,Pelicula de Vidro,6,0.9290,2
+2064,Acer Webcam Full HD MacBook Air 5301,Webcam,26,0.7334,1
+2065,Sony Protetor de Surto Pro 2024 9362,Protetor de Surto,9,0.5426,1
+2066,Sony Protetor de Surto Crystal 591,Protetor de Surto,20,0.4723,1
+2067,Panasonic Soundbar Crystal 5886,Soundbar,26,0.8039,1
+2068,Motorola Modem 5G Carbon Edition 4238,Modem,43,0.7054,0
+2069,Lenovo Webcam Full HD Inspiron 4962,Webcam,43,0.6249,0
+2070,TCL Micro-ondas Crystal 8234,Micro-ondas,43,0.7054,0
+2071,JBL Protetor de Surto OLED 1511,Protetor de Surto,4,0.5745,1
+2072,Sony Protetor de Surto Plus 4846,Protetor de Surto,14,0.5106,1
+2073,Philips Smart TV 4K QLED 3226,Smart TV,1,0.8603,1
+2074,Sony Protetor de Surto Series X 5793,Protetor de Surto,9,0.5426,1
+2075,Bose Fone de Ouvido Bluetooth Series X 7422,Fone de Ouvido,15,0.8816,1
+2076,LG Protetor de Surto QLED 790,Protetor de Surto,3,0.5809,1
+2077,Dell Webcam Full HD ROG Strix 279,Webcam,10,0.8355,1
+2078,Samsung Headset com Microfone Redmi Note 5273,Headset,1,0.7949,1
+2079,Acer Mouse Sem Fio Nitro 5 9633,Mouse,5,0.9027,2
+2080,Oppo Headset com Microfone Pixel 8 6013,Headset,6,0.7630,1
+2081,Lenovo Webcam Full HD ThinkPad 9288,Webcam,13,0.8164,1
+2082,Xiaomi Headset com Microfone Galaxy S23 8948,Headset,13,0.7183,1
+2083,JBL Protetor de Surto Pro 2024 4752,Protetor de Surto,4,0.5745,1
+2084,JBL Smart TV 4K Ultra Slim 5208,Smart TV,20,0.7390,1
+2085,Lenovo Teclado Mecânico Nitro 5 2467,Teclado Mecanico,82,0.4540,0
+2086,Philips Smart TV 4K QLED 4390,Smart TV,7,0.8220,1
+2087,Philips Soundbar Plus 7345,Soundbar,21,0.8358,1
+2088,Apple Headset com Microfone Pixel 8 4113,Headset,3,0.7821,1
+2089,Xiaomi Headset com Microfone Galaxy S23 6286,Headset,1,0.7949,1
+2090,Samsung Headset com Microfone Pixel 8 6925,Headset,2,0.7885,1
+2091,Bose Fone de Ouvido Bluetooth QLED 9729,Fone de Ouvido,47,0.6774,0
+2092,TCL Protetor de Surto OLED 3661,Protetor de Surto,1,0.5936,1
+2093,Dell Webcam Full HD G Series 9215,Webcam,23,0.7526,1
+2094,Huawei Headset com Microfone Moto G 1477,Headset,10,0.7374,1
+2095,Samsung Protetor de Surto Ultra Slim 7693,Protetor de Surto,11,0.5298,1
+2096,Realme Headset com Microfone Pixel 8 3696,Headset,2,0.7885,1
+2097,LG Smart TV 4K Plus 1930,Smart TV,9,0.8092,1
+2098,Dell Webcam Full HD Vostro 6267,Webcam,16,0.7972,1
+2099,Samsung Smart TV 4K Ultra Slim 3618,Smart TV,8,0.8156,1
