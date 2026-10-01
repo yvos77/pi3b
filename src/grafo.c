@@ -24,12 +24,20 @@ Grafo *grafo_criar(int tipo, int n_usuarios, int n_produtos) {
             free(g);
             return NULL;
         }
+    } else if (tipo == MATRIZ) {
+        g->matriz = calloc((size_t)g->n * g->n, sizeof(char));
+
+        if (g->matriz == NULL) {
+            free(g);
+            return NULL;
+        }
     }
 
     g->rotulo = calloc(g->n, sizeof(int));
 
     if (g->rotulo == NULL) {
         free(g->lista);
+        free(g->matriz);
         free(g);
         return NULL;
     }
@@ -62,6 +70,11 @@ void grafo_add_aresta(Grafo *g, int u, int v) {
         g->lista[v] = novo_u;
 
         g->m++;
+    } else if (g->tipo == MATRIZ) {
+        g->matriz[(size_t)u * g->n + v] = 1;
+        g->matriz[(size_t)v * g->n + u] = 1;
+
+        g->m++;
     }
 }
 
@@ -76,6 +89,8 @@ int grafo_tem_aresta(Grafo *g, int u, int v) {
 
             atual = atual->prox;
         }
+    } else if (g->tipo == MATRIZ) {
+        return g->matriz[(size_t)u * g->n + v];
     }
 
     return 0;
@@ -90,6 +105,12 @@ int grafo_grau(Grafo *g, int u) {
         while (atual != NULL) {
             grau++;
             atual = atual->prox;
+        }
+    } else if (g->tipo == MATRIZ) {
+        for (int v = 0; v < g->n; v++) {
+            if (g->matriz[(size_t)u * g->n + v]) {
+                grau++;
+            }
         }
     }
 
@@ -106,6 +127,13 @@ int grafo_vizinhos(Grafo *g, int u, int *buffer) {
             buffer[quantidade] = atual->v;
             quantidade++;
             atual = atual->prox;
+        }
+    } else if (g->tipo == MATRIZ) {
+        for (int v = 0; v < g->n; v++) {
+            if (g->matriz[(size_t)u * g->n + v]) {
+                buffer[quantidade] = v;
+                quantidade++;
+            }
         }
     }
 
@@ -133,6 +161,8 @@ void grafo_liberar(Grafo *g) {
         }
 
         free(g->lista);
+    } else if (g->tipo == MATRIZ) {
+        free(g->matriz);
     }
 
     free(g->rotulo);
