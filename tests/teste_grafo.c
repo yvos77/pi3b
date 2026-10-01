@@ -2,7 +2,7 @@
 #include "grafo.h"
 
 int main(void) {
-    Grafo *g = grafo_criar(LISTA, 3, 3);
+    Grafo *g = grafo_criar(MATRIZ, 3, 3);
 
     grafo_add_aresta(g, 0, 3);
     grafo_add_aresta(g, 0, 4);
