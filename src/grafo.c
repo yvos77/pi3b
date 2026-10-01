@@ -168,3 +168,22 @@ void grafo_liberar(Grafo *g) {
     free(g->rotulo);
     free(g);
 }
+
+long grafo_memoria_bytes(Grafo *g) {
+    if (g == NULL) {
+        return 0;
+    }
+
+    long memoria = 0;
+
+    if (g->tipo == LISTA) {
+        memoria += (long)g->n * sizeof(No *);
+        memoria += 2L * g->m * sizeof(No);
+        memoria += (long)g->n * sizeof(int);
+    } else if (g->tipo == MATRIZ) {
+        memoria += (long)g->n * g->n * sizeof(char);
+        memoria += (long)g->n * sizeof(int);
+    }
+
+    return memoria;
+}
