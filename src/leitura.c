@@ -118,4 +118,12 @@ void imprimir_resumo(Grafo *g) {
     printf("nicho: %d   padrao: %d\n",
            quantidade_nicho,
            quantidade_padrao);
+
+    long memoria = grafo_memoria_bytes(g);
+
+    if (g->tipo == LISTA) {
+        printf("memoria: %ld KB (lista)\n", memoria / 1024);
+    } else if (g->tipo == MATRIZ) {
+        printf("memoria: %ld KB (matriz)\n", memoria / 1024);
+    }
 }

@@ -2,7 +2,7 @@
 #include "leitura.h"
 
 int main(void) {
-    Grafo *g = ler_dataset("dados", LISTA);
+    Grafo *g = ler_dataset("dados", MATRIZ);
 
     if (g == NULL) {
         printf("Erro ao carregar dataset.\n");
