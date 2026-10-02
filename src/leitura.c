@@ -42,7 +42,11 @@ Grafo *ler_dataset(const char *pasta, int tipo) {
 
     char linha[256];
 
-    fgets(linha, sizeof(linha), f);
+    if (fgets(linha, sizeof(linha), f) == NULL) {
+        fclose(f);
+        grafo_liberar(g);
+        return NULL;
+    }
 
     int indice;
     int grau;
@@ -76,7 +80,11 @@ Grafo *ler_dataset(const char *pasta, int tipo) {
         return NULL;
     }
 
-    fgets(linha, sizeof(linha), f);
+    if (fgets(linha, sizeof(linha), f) == NULL) {
+        fclose(f);
+        grafo_liberar(g);
+        return NULL;
+    }
 
     int usuario;
     int produto;
